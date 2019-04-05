@@ -1,0 +1,2 @@
+# GTranslate
+一个可以不用打开chrome就可以使用的Google翻译软件
